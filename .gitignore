@@ -1,0 +1,17 @@
+# Build output
+out/
+bin/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Archives
+*.7z
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
